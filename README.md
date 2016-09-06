@@ -7,12 +7,16 @@ Dependencies:
 * OpenCL framework
 * LibTiff
 
-- TextureProcessing
+###Project description
+---
+Some further information to the separate projects: 
+
+- TextureProcessing 
 Reads the specified input image and creates a repeatable texture from it by performing a cyclic shift in x- and y-direction and blending of the shifted and original version of the image. 
 
-- HistogramCalculation
+- HistogramCalculation 
 Calculates an 8-bit-histogram in an efficient way.
 
-- PrefixSum
+- PrefixSum 
 Calculates the (exclusive) prefix sum of an array of integers.
 
