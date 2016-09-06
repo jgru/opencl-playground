@@ -6,18 +6,15 @@ This is a collection of some C/C++ code (within Xcode projects), which solve var
 Dependencies:
 * OpenCL framework
 * LibTiff
----
 
-<<<<<<< HEAD
 ###Project description
 ---
 Some further information to the separate projects: 
 
 - TextureProcessing 
 =======
-Some further information to the separate projects:
+Some further information to the separate projects: 
 - TextureProcessing
->>>>>>> 0a4dc6ecf6d34e9d6a9e35197c5f84dfc677bfe0
 Reads the specified input image and creates a repeatable texture from it by performing a cyclic shift in x- and y-direction and blending of the shifted and original version of the image. 
 
 - HistogramCalculation 
