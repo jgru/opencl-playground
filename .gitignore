@@ -1,0 +1,6 @@
+###############
+# Directories #
+###############
+./HistogramCalculation/.metadata/*
+./PrefixSum/.metadata/*
+./TexturePreprocessing/.metadata/*
