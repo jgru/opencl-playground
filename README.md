@@ -11,11 +11,7 @@ Dependencies:
 ---
 Some further information to the separate projects: 
 
-- TextureProcessing 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 618a63ca9b807dde0527ae72275b70d8ff13f6d4
+- TextureProcessing  
 Some further information to the separate projects: 
 - TextureProcessing
 Reads the specified input image and creates a repeatable texture from it by performing a cyclic shift in x- and y-direction and blending of the shifted and original version of the image. 
