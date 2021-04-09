@@ -7,8 +7,8 @@ Dependencies:
 * OpenCL framework
 * LibTiff
 
-###Project description
----
+### Project description
+
 Some further information to the separate projects: 
 
 - TextureProcessing  
